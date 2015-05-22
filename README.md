@@ -34,9 +34,11 @@ Source data delivered as a collection of text files of which the following were 
 - 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 #### 1. Merge the training and the test sets to create one data set.
-.
 >
 >data_Train ==> Merged data for training tables
+
 >>'data.frame':    7352 obs. of  563 variables:
+
 >data_Test ==> Merged data for training tables
+
 >>'data.frame':    2947 obs. of  563 variables:

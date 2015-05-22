@@ -51,4 +51,4 @@ run_analysis.R takes in the raw data and follows the following steps:
 `dplyr` was extensively used throughout the process. During the process, several data sets were created from where and new data sets were built upon on further steps. This is an inefficient use of memory but was done so for clarity and to help with the understanding of the process. 
 
 ***
-The attached Codebook contains a more detailed analysis of the process and the functions used as well as a descriptions of the data sets variables involved. Furthermore, the code was commented for clarity.
+The attached Codebook contains a more detailed analysis of the process and the functions that were used as well as a descriptions of the data sets variables involved. Furthermore, the code was commented for clarity.

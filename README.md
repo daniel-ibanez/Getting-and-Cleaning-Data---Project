@@ -31,4 +31,5 @@ Source data delivered as a collection of text files of which the following were 
 
 - 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 ***
+
 The final objective of this project is to derive form this raw data a tidy data set that contains the means of the std and mean variables summarized by subject and activity name.

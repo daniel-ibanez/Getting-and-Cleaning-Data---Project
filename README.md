@@ -33,3 +33,22 @@ Source data delivered as a collection of text files of which the following were 
 ***
 
 The final objective of this project is to derive form this raw data a tidy data set that contains the means of the std and mean variables summarized by subject and activity name.
+
+run_analysis.R takes in the raw data and follows the following steps:
+
++ Import the raw data to R
+
++ Merge both Train and Test data sets
+
++ Filter to include only variables pertaining to mean or standard deviation
+
++ Include a descriptive name for the Activities
+
++ Label the data set with descriptive variable names
+
++ Derive a tidy data set that contains only the Subject, Activity Name and mean for all variables
+
+`dplyr` was extensively used throughout the process. During the process, several data sets were created from where and new data sets were built upon on further steps. This is an inefficient use of memory but was done so for clarity and to help with the understanding of the process. 
+
+***
+The attached Codebook contains a more detailed analysis of the process and the functions used as well as a descriptions of the data sets variables involved. Furthermore, the code was commented for clarity.
